@@ -218,7 +218,7 @@
 <a class="skip-link" href="#main">Skip to content</a>
 
 <header class="site-header">
-  <a class="brand" href="#home">Zachary Haas<span>.</span></a>
+  <a class="brand" href="#home">Zach Haas<span></span></a>
 
   <nav aria-label="Main navigation">
     <a href="#work">Work</a>
