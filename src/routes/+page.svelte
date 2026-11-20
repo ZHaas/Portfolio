@@ -213,6 +213,29 @@
     name="description"
     content="Zachary Haas is a software engineer building web and mobile applications with TypeScript, SvelteKit, React, and Node.js."
   />
+  <link rel="canonical" href="https://www.zachhaas.dev/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://www.zachhaas.dev/" />
+  <meta property="og:title" content="Zachary Haas | Software Engineer" />
+  <meta
+    property="og:description"
+    content="Zachary Haas is a software engineer building web and mobile applications with TypeScript, SvelteKit, React, and Node.js."
+  />
+  <meta
+    property="og:image"
+    content="https://www.zachhaas.dev/projects/logo.png"
+  />
+  <meta property="og:image:alt" content="Zachary Haas logo" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Zachary Haas | Software Engineer" />
+  <meta
+    name="twitter:description"
+    content="Zachary Haas is a software engineer building web and mobile applications with TypeScript, SvelteKit, React, and Node.js."
+  />
+  <meta
+    name="twitter:image"
+    content="https://www.zachhaas.dev/projects/logo.png"
+  />
 </svelte:head>
 
 <a class="skip-link" href="#main">Skip to content</a>
